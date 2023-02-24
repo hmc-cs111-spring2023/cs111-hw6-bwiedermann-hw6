@@ -242,7 +242,7 @@ $$
 \text{chars}(c) &= \{c\} \\
 \text{chars}(r_1 \cup r_2) &= \text{chars}(r_1) \cup \text{chars}(r_2)\\
 \text{chars}(r_1 \cdot r_2) &= \text{chars}(r_1) \cup \text{chars}(r_2)\\
-\text{chars}(r^*) &= \text{chars}(r)
+\text{chars}(r^{\*}) &= \text{chars}(r)
 \end{align*}
 $$
 
